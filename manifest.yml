@@ -6,4 +6,7 @@ applications:
 name: MicroservicesCatalogAPI
 memory: 256m
 instances: 1
-host: ms-catalogAPI-${random-word}
+host: ms-catalogAPI-marcvl555
+
+
+
